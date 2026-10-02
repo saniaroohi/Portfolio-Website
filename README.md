@@ -2,12 +2,11 @@
 
 A responsive, accessible personal portfolio web application showcasing my profile, education, skills, internships, projects and contact details. Built for the Web Technologies assignment using HTML5, CSS3, Bootstrap 5 and ES6+ JavaScript.
 
-
 ## Screenshots
 
 | Desktop (light) | Desktop (dark) |
-|---|---|---|
-| ![Desktop light](screenshots/light.png) | ![Desktop dark](screenshots/dark.png) | 
+|---|---|
+| ![Desktop light](screenshots/light.png) | ![Desktop dark](screenshots/dark.png) |
 
 ## Features
 
@@ -47,7 +46,7 @@ portfolio/
 
 ## Run locally
 
-1. Clone the repository: `git clone https://github.com/saniaroohi/portfolio.git`
+1. Clone the repository: `git clone https://github.com/saniaroohi/Portfolio-Website.git`
 2. Open `index.html` in any modern browser (internet needed for the Bootstrap and font CDNs).
 
 ## Accessibility
