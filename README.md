@@ -2,6 +2,8 @@
 
 A responsive, accessible personal portfolio web application showcasing my profile, education, skills, internships, projects and contact details. Built for the Web Technologies assignment using HTML5, CSS3, Bootstrap 5 and ES6+ JavaScript.
 
+**Live demo:** [https://saniaroohi.github.io/Portfolio-Website/](https://saniaroohi.github.io/Portfolio-Website/)
+
 ## Screenshots
 
 | Desktop (light) | Desktop (dark) |
